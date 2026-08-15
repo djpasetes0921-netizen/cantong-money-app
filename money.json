@@ -1,0 +1,145 @@
+{
+ "v": 1,
+ "settings": {
+  "house": "Cantong",
+  "sym": "₱",
+  "start": 9458.77,
+  "nextDate": "",
+  "nextAmt": 0,
+  "base": 0,
+  "syncUrl": "",
+  "autoSync": true,
+  "u": 1786831358526,
+  "gh": null,
+  "lastSync": 0
+ },
+ "txns": [
+  {
+   "id": "i9vx5vfi",
+   "type": "expense",
+   "amount": 15000,
+   "date": "2026-08-17",
+   "cat": "Utilities",
+   "note": "",
+   "u": 1786831259204,
+   "c": 1786831248554,
+   "essential": true
+  },
+  {
+   "id": "2vgej69f",
+   "type": "income",
+   "amount": 78115.8,
+   "date": "2026-08-16",
+   "cat": "Client",
+   "note": "",
+   "alloc": [
+    {
+     "id": "bdzmbsty",
+     "amt": 3905.79
+    },
+    {
+     "id": "e4kgmm57",
+     "amt": 11717.37
+    },
+    {
+     "id": "jqivezjd",
+     "amt": 7811.58
+    },
+    {
+     "id": "6b9mf6bi",
+     "amt": 7811.58
+    },
+    {
+     "id": "b8iwvzmz",
+     "amt": 11717.37
+    },
+    {
+     "id": "pt06oanj",
+     "amt": 3905.79
+    }
+   ],
+   "u": 1786831491853,
+   "c": 1786831491853
+  },
+  {
+   "id": "1i3qpjei",
+   "type": "expense",
+   "amount": 12000,
+   "date": "2026-08-16",
+   "cat": "Utilities",
+   "note": "tithes",
+   "u": 1786831532046,
+   "c": 1786831532046,
+   "essential": true
+  }
+ ],
+ "bills": [],
+ "buckets": [
+  {
+   "id": "bdzmbsty",
+   "name": "Goal",
+   "pct": 5,
+   "target": 0,
+   "u": 1786830822805,
+   "c": 1786830822805
+  },
+  {
+   "id": "e4kgmm57",
+   "name": "Next month buffer",
+   "pct": 15,
+   "target": 0,
+   "u": 1786830822805,
+   "c": 1786830822805
+  },
+  {
+   "id": "jqivezjd",
+   "name": "Emergency fund",
+   "pct": 10,
+   "target": 0,
+   "u": 1786830822805,
+   "c": 1786830822805
+  },
+  {
+   "id": "6b9mf6bi",
+   "name": "Emergency fund",
+   "pct": 10,
+   "target": 0,
+   "u": 1786830989686,
+   "c": 1786830989686
+  },
+  {
+   "id": "b8iwvzmz",
+   "name": "Next month buffer",
+   "pct": 15,
+   "target": 0,
+   "u": 1786830989686,
+   "c": 1786830989686
+  },
+  {
+   "id": "pt06oanj",
+   "name": "Goal",
+   "pct": 5,
+   "target": 0,
+   "u": 1786830989686,
+   "c": 1786830989686
+  }
+ ],
+ "planned": [
+  {
+   "id": "b8ncncw4",
+   "type": "income",
+   "name": "Expected pay",
+   "amount": 78115.8,
+   "date": "2026-08-15",
+   "repeat": "once",
+   "active": true,
+   "u": 1786834526300,
+   "c": 1786834526300
+  }
+ ],
+ "moves": [],
+ "tomb": {
+  "e3iej48j": 1786831074398,
+  "5fwaywsr": 1786831491853
+ }
+}
