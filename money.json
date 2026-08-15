@@ -15,17 +15,6 @@
  },
  "txns": [
   {
-   "id": "i9vx5vfi",
-   "type": "expense",
-   "amount": 15000,
-   "date": "2026-08-17",
-   "cat": "Utilities",
-   "note": "",
-   "u": 1786831259204,
-   "c": 1786831248554,
-   "essential": true
-  },
-  {
    "id": "2vgej69f",
    "type": "income",
    "amount": 78115.8,
@@ -140,6 +129,7 @@
  "moves": [],
  "tomb": {
   "e3iej48j": 1786831074398,
-  "5fwaywsr": 1786831491853
+  "5fwaywsr": 1786831491853,
+  "i9vx5vfi": 1786834594833
  }
 }
