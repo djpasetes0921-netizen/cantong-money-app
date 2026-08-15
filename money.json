@@ -100,6 +100,30 @@
    "target": 0,
    "u": 1786830989686,
    "c": 1786830989686
+  },
+  {
+   "id": "4xcjclrf",
+   "name": "Emergency fund",
+   "pct": 10,
+   "target": 0,
+   "u": 1786834690377,
+   "c": 1786834690377
+  },
+  {
+   "id": "8x46laub",
+   "name": "Goal",
+   "pct": 5,
+   "target": 0,
+   "u": 1786834690377,
+   "c": 1786834690377
+  },
+  {
+   "id": "fxg8cee4",
+   "name": "Next month buffer",
+   "pct": 15,
+   "target": 0,
+   "u": 1786834690377,
+   "c": 1786834690377
   }
  ],
  "planned": [
