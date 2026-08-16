@@ -195,7 +195,21 @@
   }
  ],
  "moves": [],
- "daily": [],
+ "daily": [
+  {
+   "id": "am3rzvuv",
+   "name": "PMS",
+   "amount": 20000,
+   "per": "once",
+   "days": [],
+   "anchor": "2026-08-17",
+   "auto": false,
+   "acct": "2qriqa32",
+   "active": true,
+   "u": 1786920711380,
+   "c": 1786920711380
+  }
+ ],
  "tomb": {
   "e3iej48j": 1786831074398,
   "5fwaywsr": 1786831491853,
