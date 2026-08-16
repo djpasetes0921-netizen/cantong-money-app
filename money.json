@@ -11,7 +11,8 @@
   "autoSync": true,
   "u": 1786831358526,
   "gh": null,
-  "lastSync": 0
+  "lastSync": 0,
+  "lastAcct": "iqb8kkuo"
  },
  "accounts": [
   {
@@ -31,7 +32,20 @@
    "c": 1786894920374
   }
  ],
- "txns": [],
+ "txns": [
+  {
+   "id": "x8r6ljry",
+   "type": "transfer",
+   "amount": 50000,
+   "date": "2026-08-17",
+   "from": "iqb8kkuo",
+   "to": "2qriqa32",
+   "cat": "Transfer",
+   "note": "",
+   "u": 1786897478274,
+   "c": 1786897478274
+  }
+ ],
  "bills": [
   {
    "id": "ks6fsxqf",
