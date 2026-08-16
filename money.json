@@ -30,6 +30,14 @@
    "start": 4040.17,
    "u": 1786894920374,
    "c": 1786894920374
+  },
+  {
+   "id": "lj4nihxm",
+   "name": "Cash on hand",
+   "kind": "cash",
+   "start": 0,
+   "u": 1786895083239,
+   "c": 1786895083239
   }
  ],
  "txns": [],
@@ -115,6 +123,33 @@
    "u": 1786834690377,
    "c": 1786834690377,
    "auto": "month"
+  },
+  {
+   "id": "1pkd1nau",
+   "name": "Emergency fund",
+   "pct": 10,
+   "target": 0,
+   "u": 1786895083239,
+   "c": 1786895083239,
+   "auto": "three"
+  },
+  {
+   "id": "8kk5ai12",
+   "name": "Next month buffer",
+   "pct": 15,
+   "target": 0,
+   "u": 1786895083239,
+   "c": 1786895083239,
+   "auto": "month"
+  },
+  {
+   "id": "epxr58jp",
+   "name": "Goal",
+   "pct": 5,
+   "target": 0,
+   "u": 1786895083239,
+   "c": 1786895083239,
+   "auto": "none"
   }
  ],
  "planned": [],
