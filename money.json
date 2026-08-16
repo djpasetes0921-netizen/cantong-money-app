@@ -129,6 +129,20 @@
    "acct": "2qriqa32",
    "auto": true,
    "until": "2026-10-03"
+  },
+  {
+   "id": "s5vwfbpo",
+   "name": "AC Unit",
+   "amount": 2225,
+   "dueDay": 3,
+   "active": true,
+   "paid": [],
+   "skip": [],
+   "u": 1786897774746,
+   "c": 1786897774746,
+   "acct": "2qriqa32",
+   "auto": true,
+   "until": "2026-09-03"
   }
  ],
  "buckets": [
