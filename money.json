@@ -196,7 +196,23 @@
   }
  ],
  "moves": [],
- "daily": [],
+ "daily": [
+  {
+   "id": "vcg51hwu",
+   "name": "Austin Allowance",
+   "amount": 2000,
+   "per": "week",
+   "days": [
+    5
+   ],
+   "anchor": "2026-08-21",
+   "auto": false,
+   "acct": "iqb8kkuo",
+   "active": true,
+   "u": 1786905135958,
+   "c": 1786905135958
+  }
+ ],
  "tomb": {
   "e3iej48j": 1786831074398,
   "5fwaywsr": 1786831491853,
