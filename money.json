@@ -11,7 +11,8 @@
   "autoSync": true,
   "u": 1786831358526,
   "gh": null,
-  "lastSync": 0
+  "lastSync": 0,
+  "lastAcct": "iqb8kkuo"
  },
  "accounts": [
   {
@@ -23,7 +24,20 @@
    "c": 1786877204756
   }
  ],
- "txns": [],
+ "txns": [
+  {
+   "id": "y9ih9ffy",
+   "type": "expense",
+   "amount": 50000,
+   "date": "2026-08-16",
+   "cat": "Food & groceries",
+   "note": "",
+   "acct": "iqb8kkuo",
+   "u": 1786877496303,
+   "c": 1786877496303,
+   "essential": true
+  }
+ ],
  "bills": [],
  "buckets": [
   {
