@@ -3,7 +3,7 @@
  "settings": {
   "house": "Cantong",
   "sym": "₱",
-  "start": 9458.77,
+  "start": 0,
   "nextDate": "",
   "nextAmt": 0,
   "base": 0,
@@ -11,8 +11,27 @@
   "autoSync": true,
   "u": 1786831358526,
   "gh": null,
-  "lastSync": 0
+  "lastSync": 0,
+  "lastAcct": "iqb8kkuo"
  },
+ "accounts": [
+  {
+   "id": "iqb8kkuo",
+   "name": "Wise",
+   "kind": "bank",
+   "start": 78115.8,
+   "u": 1786896935758,
+   "c": 1786877204756
+  },
+  {
+   "id": "2qriqa32",
+   "name": "China Bank",
+   "kind": "cash",
+   "start": 4040.17,
+   "u": 1786894920374,
+   "c": 1786894920374
+  }
+ ],
  "txns": [],
  "bills": [
   {
@@ -134,7 +153,8 @@
    "pct": 5,
    "target": 0,
    "u": 1786830822805,
-   "c": 1786830822805
+   "c": 1786830822805,
+   "auto": "none"
   },
   {
    "id": "e4kgmm57",
@@ -142,7 +162,8 @@
    "pct": 15,
    "target": 0,
    "u": 1786830822805,
-   "c": 1786830822805
+   "c": 1786830822805,
+   "auto": "month"
   },
   {
    "id": "jqivezjd",
@@ -150,11 +171,13 @@
    "pct": 10,
    "target": 0,
    "u": 1786830822805,
-   "c": 1786830822805
+   "c": 1786830822805,
+   "auto": "three"
   }
  ],
  "planned": [],
  "moves": [],
+ "daily": [],
  "tomb": {
   "e3iej48j": 1786831074398,
   "5fwaywsr": 1786831491853,
