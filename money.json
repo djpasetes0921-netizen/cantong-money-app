@@ -18,9 +18,9 @@
   {
    "id": "iqb8kkuo",
    "name": "Cash on hand",
-   "kind": "cash",
-   "start": 50000,
-   "u": 1786880706019,
+   "kind": "bank",
+   "start": 78115.8,
+   "u": 1786894738714,
    "c": 1786877204756
   }
  ],
