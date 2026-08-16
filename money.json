@@ -11,7 +11,8 @@
   "autoSync": true,
   "u": 1786831358526,
   "gh": null,
-  "lastSync": 0
+  "lastSync": 0,
+  "lastAcct": "iqb8kkuo"
  },
  "accounts": [
   {
@@ -45,6 +46,20 @@
    "acct": "2qriqa32",
    "auto": false,
    "until": "2027-08-20"
+  },
+  {
+   "id": "941zcepw",
+   "name": "iPhone 17 Pro Max",
+   "amount": 4829,
+   "dueDay": 18,
+   "active": true,
+   "paid": [],
+   "skip": [],
+   "u": 1786897422927,
+   "c": 1786897422927,
+   "acct": "2qriqa32",
+   "auto": true,
+   "until": "2028-01-18"
   }
  ],
  "buckets": [
