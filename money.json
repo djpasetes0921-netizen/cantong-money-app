@@ -11,16 +11,15 @@
   "autoSync": true,
   "u": 1786831358526,
   "gh": null,
-  "lastSync": 0,
-  "lastAcct": "iqb8kkuo"
+  "lastSync": 0
  },
  "accounts": [
   {
    "id": "iqb8kkuo",
-   "name": "Cash on hand",
+   "name": "Wise",
    "kind": "bank",
-   "start": 87574.57,
-   "u": 1786896874989,
+   "start": 78115.8,
+   "u": 1786896935758,
    "c": 1786877204756
   },
   {
