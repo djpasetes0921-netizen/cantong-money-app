@@ -23,55 +23,7 @@
    "c": 1786877204756
   }
  ],
- "txns": [
-  {
-   "id": "2vgej69f",
-   "type": "income",
-   "amount": 78115.8,
-   "date": "2026-08-16",
-   "cat": "Client",
-   "note": "",
-   "alloc": [
-    {
-     "id": "bdzmbsty",
-     "amt": 3905.79
-    },
-    {
-     "id": "e4kgmm57",
-     "amt": 11717.37
-    },
-    {
-     "id": "jqivezjd",
-     "amt": 7811.58
-    },
-    {
-     "id": "6b9mf6bi",
-     "amt": 7811.58
-    },
-    {
-     "id": "b8iwvzmz",
-     "amt": 11717.37
-    },
-    {
-     "id": "pt06oanj",
-     "amt": 3905.79
-    }
-   ],
-   "u": 1786831491853,
-   "c": 1786831491853
-  },
-  {
-   "id": "e8alv6kz",
-   "type": "expense",
-   "amount": 500,
-   "date": "2026-08-16",
-   "cat": "Food & groceries",
-   "note": "food panda",
-   "u": 1786874040166,
-   "c": 1786874040166,
-   "essential": true
-  }
- ],
+ "txns": [],
  "bills": [],
  "buckets": [
   {
@@ -174,6 +126,8 @@
   "e3iej48j": 1786831074398,
   "5fwaywsr": 1786831491853,
   "i9vx5vfi": 1786834594833,
-  "1i3qpjei": 1786834604791
+  "1i3qpjei": 1786834604791,
+  "2vgej69f": 1786877254474,
+  "e8alv6kz": 1786877255426
  }
 }
