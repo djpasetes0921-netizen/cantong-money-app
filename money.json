@@ -32,32 +32,7 @@
    "c": 1786894920374
   }
  ],
- "txns": [
-  {
-   "id": "vaulcn49",
-   "type": "expense",
-   "amount": 1104,
-   "date": "2026-08-20",
-   "cat": "Loan payment",
-   "note": "Apple Watch",
-   "acct": "iqb8kkuo",
-   "u": 1786895370563,
-   "c": 1786895370563,
-   "essential": true
-  },
-  {
-   "id": "hpchf5kk",
-   "type": "expense",
-   "amount": 1104,
-   "date": "2026-08-16",
-   "cat": "Loan payment",
-   "note": "Apple Watch",
-   "acct": "iqb8kkuo",
-   "u": 1786895466108,
-   "c": 1786895466108,
-   "essential": true
-  }
- ],
+ "txns": [],
  "bills": [],
  "buckets": [
   {
@@ -185,6 +160,8 @@
   "mlazegp2": 1786877591889,
   "y9ih9ffy": 1786877592468,
   "diip75s1": 1786894697004,
-  "lj4nihxm": 1786895199280
+  "lj4nihxm": 1786895199280,
+  "vaulcn49": 1786895522305,
+  "hpchf5kk": 1786895524524
  }
 }
