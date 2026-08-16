@@ -12,7 +12,8 @@
   "u": 1786831358526,
   "gh": null,
   "lastSync": 0,
-  "lastAcct": "iqb8kkuo"
+  "lastAcct": "iqb8kkuo",
+  "window": "month"
  },
  "accounts": [
   {
@@ -26,9 +27,9 @@
   {
    "id": "2qriqa32",
    "name": "China Bank",
-   "kind": "cash",
+   "kind": "bank",
    "start": 4040.17,
-   "u": 1786894920374,
+   "u": 1786904435814,
    "c": 1786894920374
   }
  ],
