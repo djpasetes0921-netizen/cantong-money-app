@@ -73,6 +73,20 @@
    "acct": "2qriqa32",
    "auto": true,
    "until": "2028-01-18"
+  },
+  {
+   "id": "k8basg8j",
+   "name": "GCash Loan",
+   "amount": 1951,
+   "dueDay": 22,
+   "active": true,
+   "paid": [],
+   "skip": [],
+   "u": 1786897522122,
+   "c": 1786897522122,
+   "acct": "2qriqa32",
+   "auto": true,
+   "until": "2026-08-22"
   }
  ],
  "buckets": [
