@@ -11,7 +11,8 @@
   "autoSync": true,
   "u": 1786831358526,
   "gh": null,
-  "lastSync": 0
+  "lastSync": 0,
+  "lastAcct": "iqb8kkuo"
  },
  "accounts": [
   {
@@ -40,10 +41,10 @@
    "dueDay": 20,
    "active": true,
    "paid": [],
-   "u": 1786897151867,
+   "u": 1786897266932,
    "c": 1786895562561,
    "acct": "2qriqa32",
-   "auto": true,
+   "auto": false,
    "until": "2027-08-20"
   }
  ],
