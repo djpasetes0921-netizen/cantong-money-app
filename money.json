@@ -11,9 +11,26 @@
   "autoSync": true,
   "u": 1786831358526,
   "gh": null,
-  "lastSync": 0
+  "lastSync": 0,
+  "lastAcct": "iqb8kkuo"
  },
  "accounts": [
+  {
+   "id": "iqb8kkuo",
+   "name": "Cash on hand",
+   "kind": "bank",
+   "start": 78115.8,
+   "u": 1786895199280,
+   "c": 1786877204756
+  },
+  {
+   "id": "2qriqa32",
+   "name": "China Bank",
+   "kind": "cash",
+   "start": 4040.17,
+   "u": 1786894920374,
+   "c": 1786894920374
+  },
   {
    "id": "6emlfhg7",
    "name": "Cash on hand",
