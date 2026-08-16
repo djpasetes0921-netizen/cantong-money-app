@@ -11,8 +11,7 @@
   "autoSync": true,
   "u": 1786831358526,
   "gh": null,
-  "lastSync": 0,
-  "lastAcct": "iqb8kkuo"
+  "lastSync": 0
  },
  "accounts": [
   {
@@ -37,11 +36,11 @@
   {
    "id": "ks6fsxqf",
    "name": "Apple Watch",
-   "amount": 1107,
+   "amount": 1106,
    "dueDay": 20,
    "active": true,
    "paid": [],
-   "u": 1786897095689,
+   "u": 1786897106771,
    "c": 1786895562561,
    "acct": "iqb8kkuo",
    "auto": true,
