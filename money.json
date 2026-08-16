@@ -33,7 +33,18 @@
   }
  ],
  "txns": [],
- "bills": [],
+ "bills": [
+  {
+   "id": "ks6fsxqf",
+   "name": "Apple Watch",
+   "amount": 1104,
+   "dueDay": 20,
+   "active": true,
+   "paid": [],
+   "u": 1786895562561,
+   "c": 1786895562561
+  }
+ ],
  "buckets": [
   {
    "id": "bdzmbsty",
