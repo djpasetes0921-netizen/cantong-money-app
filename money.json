@@ -108,19 +108,7 @@
    "auto": "month"
   }
  ],
- "planned": [
-  {
-   "id": "b8ncncw4",
-   "type": "income",
-   "name": "Expected pay",
-   "amount": 78115.8,
-   "date": "2026-08-15",
-   "repeat": "once",
-   "active": true,
-   "u": 1786834526300,
-   "c": 1786834526300
-  }
- ],
+ "planned": [],
  "moves": [],
  "tomb": {
   "e3iej48j": 1786831074398,
@@ -128,6 +116,7 @@
   "i9vx5vfi": 1786834594833,
   "1i3qpjei": 1786834604791,
   "2vgej69f": 1786877254474,
-  "e8alv6kz": 1786877255426
+  "e8alv6kz": 1786877255426,
+  "b8ncncw4": 1786877265355
  }
 }
