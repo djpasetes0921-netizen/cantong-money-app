@@ -25,7 +25,18 @@
   }
  ],
  "txns": [],
- "bills": [],
+ "bills": [
+  {
+   "id": "diip75s1",
+   "name": "Test",
+   "amount": 2000,
+   "dueDay": 1,
+   "active": true,
+   "paid": [],
+   "u": 1786894473124,
+   "c": 1786894473124
+  }
+ ],
  "buckets": [
   {
    "id": "bdzmbsty",
