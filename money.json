@@ -115,6 +115,20 @@
    "acct": "2qriqa32",
    "auto": true,
    "until": "2027-05-03"
+  },
+  {
+   "id": "cn6qpcfm",
+   "name": "Electric Fan",
+   "amount": 3420,
+   "dueDay": 3,
+   "active": true,
+   "paid": [],
+   "skip": [],
+   "u": 1786897718699,
+   "c": 1786897718699,
+   "acct": "2qriqa32",
+   "auto": true,
+   "until": "2026-10-03"
   }
  ],
  "buckets": [
