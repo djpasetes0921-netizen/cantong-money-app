@@ -11,7 +11,8 @@
   "autoSync": true,
   "u": 1786831358526,
   "gh": null,
-  "lastSync": 0
+  "lastSync": 0,
+  "lastAcct": "iqb8kkuo"
  },
  "accounts": [
   {
@@ -35,6 +36,55 @@
    "u": 1786877496303,
    "c": 1786877496303,
    "essential": true
+  },
+  {
+   "id": "mlazegp2",
+   "type": "income",
+   "amount": 10000,
+   "date": "2026-08-16",
+   "cat": "Freelance work",
+   "note": "",
+   "acct": "iqb8kkuo",
+   "u": 1786877517965,
+   "c": 1786877517965,
+   "alloc": [
+    {
+     "id": "bdzmbsty",
+     "amt": 500
+    },
+    {
+     "id": "e4kgmm57",
+     "amt": 1500
+    },
+    {
+     "id": "jqivezjd",
+     "amt": 1000
+    },
+    {
+     "id": "6b9mf6bi",
+     "amt": 1000
+    },
+    {
+     "id": "b8iwvzmz",
+     "amt": 1500
+    },
+    {
+     "id": "pt06oanj",
+     "amt": 500
+    },
+    {
+     "id": "4xcjclrf",
+     "amt": 1000
+    },
+    {
+     "id": "8x46laub",
+     "amt": 500
+    },
+    {
+     "id": "fxg8cee4",
+     "amt": 1500
+    }
+   ]
   }
  ],
  "bills": [],
