@@ -143,6 +143,20 @@
    "acct": "2qriqa32",
    "auto": true,
    "until": "2026-09-03"
+  },
+  {
+   "id": "9yaii377",
+   "name": "HC Cash Loan",
+   "amount": 5899,
+   "dueDay": 4,
+   "active": true,
+   "paid": [],
+   "skip": [],
+   "u": 1786897824582,
+   "c": 1786897824582,
+   "acct": "2qriqa32",
+   "auto": true,
+   "until": "2027-06-04"
   }
  ],
  "buckets": [
