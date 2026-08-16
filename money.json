@@ -49,6 +49,17 @@
    ],
    "u": 1786831491853,
    "c": 1786831491853
+  },
+  {
+   "id": "e8alv6kz",
+   "type": "expense",
+   "amount": 500,
+   "date": "2026-08-16",
+   "cat": "Food & groceries",
+   "note": "food panda",
+   "u": 1786874040166,
+   "c": 1786874040166,
+   "essential": true
   }
  ],
  "bills": [],
