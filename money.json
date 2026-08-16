@@ -24,69 +24,7 @@
    "c": 1786877204756
   }
  ],
- "txns": [
-  {
-   "id": "y9ih9ffy",
-   "type": "expense",
-   "amount": 50000,
-   "date": "2026-08-16",
-   "cat": "Food & groceries",
-   "note": "",
-   "acct": "iqb8kkuo",
-   "u": 1786877496303,
-   "c": 1786877496303,
-   "essential": true
-  },
-  {
-   "id": "mlazegp2",
-   "type": "income",
-   "amount": 10000,
-   "date": "2026-08-16",
-   "cat": "Freelance work",
-   "note": "",
-   "acct": "iqb8kkuo",
-   "u": 1786877517965,
-   "c": 1786877517965,
-   "alloc": [
-    {
-     "id": "bdzmbsty",
-     "amt": 500
-    },
-    {
-     "id": "e4kgmm57",
-     "amt": 1500
-    },
-    {
-     "id": "jqivezjd",
-     "amt": 1000
-    },
-    {
-     "id": "6b9mf6bi",
-     "amt": 1000
-    },
-    {
-     "id": "b8iwvzmz",
-     "amt": 1500
-    },
-    {
-     "id": "pt06oanj",
-     "amt": 500
-    },
-    {
-     "id": "4xcjclrf",
-     "amt": 1000
-    },
-    {
-     "id": "8x46laub",
-     "amt": 500
-    },
-    {
-     "id": "fxg8cee4",
-     "amt": 1500
-    }
-   ]
-  }
- ],
+ "txns": [],
  "bills": [],
  "buckets": [
   {
@@ -183,6 +121,8 @@
   "b8ncncw4": 1786877265355,
   "iqb8kkuo": 1786877408848,
   "uwkwa2b0": 1786877445487,
-  "jnh81bci": 1786877461951
+  "jnh81bci": 1786877461951,
+  "mlazegp2": 1786877591889,
+  "y9ih9ffy": 1786877592468
  }
 }
