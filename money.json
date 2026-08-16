@@ -11,9 +11,7 @@
   "autoSync": true,
   "u": 1786831358526,
   "gh": null,
-  "lastSync": 0,
-  "lastAcct": "iqb8kkuo",
-  "window": "month"
+  "lastSync": 0
  },
  "accounts": [
   {
@@ -31,6 +29,14 @@
    "start": 37625.31,
    "u": 1786920643385,
    "c": 1786894920374
+  },
+  {
+   "id": "fzq3eyo5",
+   "name": "Cash on hand",
+   "kind": "cash",
+   "start": 9458.77,
+   "u": 1786922356186,
+   "c": 1786922356186
   }
  ],
  "txns": [],
