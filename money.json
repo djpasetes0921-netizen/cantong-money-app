@@ -44,6 +44,18 @@
    "u": 1786895370563,
    "c": 1786895370563,
    "essential": true
+  },
+  {
+   "id": "hpchf5kk",
+   "type": "expense",
+   "amount": 1104,
+   "date": "2026-08-16",
+   "cat": "Loan payment",
+   "note": "Apple Watch",
+   "acct": "iqb8kkuo",
+   "u": 1786895466108,
+   "c": 1786895466108,
+   "essential": true
   }
  ],
  "bills": [],
