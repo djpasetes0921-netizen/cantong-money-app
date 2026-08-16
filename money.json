@@ -32,7 +32,21 @@
    "c": 1786894920374
   }
  ],
- "txns": [],
+ "txns": [
+  {
+   "id": "xkph0n4k",
+   "type": "expense",
+   "amount": 1104,
+   "date": "2026-08-16",
+   "cat": "Apple Watch",
+   "note": "monthly bill",
+   "essential": true,
+   "bill": "ks6fsxqf",
+   "billKey": "2026-08",
+   "u": 1786895705992,
+   "c": 1786895705992
+  }
+ ],
  "bills": [
   {
    "id": "ks6fsxqf",
@@ -40,8 +54,10 @@
    "amount": 1104,
    "dueDay": 20,
    "active": true,
-   "paid": [],
-   "u": 1786895562561,
+   "paid": [
+    "2026-08"
+   ],
+   "u": 1786895705992,
    "c": 1786895562561
   }
  ],
