@@ -39,7 +39,20 @@
    "c": 1786922356186
   }
  ],
- "txns": [],
+ "txns": [
+  {
+   "id": "9jfwstbf",
+   "type": "expense",
+   "amount": 20000,
+   "date": "2026-08-17",
+   "cat": "PMS",
+   "note": "",
+   "essential": true,
+   "acct": "2qriqa32",
+   "u": 1786923157964,
+   "c": 1786923157964
+  }
+ ],
  "bills": [
   {
    "id": "ks6fsxqf",
@@ -202,21 +215,7 @@
   }
  ],
  "moves": [],
- "daily": [
-  {
-   "id": "am3rzvuv",
-   "name": "PMS",
-   "amount": 20000,
-   "per": "once",
-   "days": [],
-   "anchor": "2026-08-17",
-   "auto": false,
-   "acct": "2qriqa32",
-   "active": true,
-   "u": 1786920711380,
-   "c": 1786920711380
-  }
- ],
+ "daily": [],
  "tomb": {
   "e3iej48j": 1786831074398,
   "5fwaywsr": 1786831491853,
@@ -246,6 +245,7 @@
   "b8iwvzmz": 1786896983146,
   "6b9mf6bi": 1786896987977,
   "x8r6ljry": 1786897979431,
-  "vcg51hwu": 1786907202687
+  "vcg51hwu": 1786907202687,
+  "am3rzvuv": 1786923157964
  }
 }
