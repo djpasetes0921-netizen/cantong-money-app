@@ -176,7 +176,25 @@
    "auto": "three"
   }
  ],
- "planned": [],
+ "planned": [
+  {
+   "id": "aq7bqmxd",
+   "type": "income",
+   "name": "Lab916",
+   "amount": 61500,
+   "date": "2026-08-18",
+   "repeat": "once",
+   "days": [],
+   "cur": "",
+   "rate": 0,
+   "until": "",
+   "auto": false,
+   "acct": "iqb8kkuo",
+   "active": true,
+   "u": 1786904712106,
+   "c": 1786904712106
+  }
+ ],
  "moves": [],
  "daily": [],
  "tomb": {
