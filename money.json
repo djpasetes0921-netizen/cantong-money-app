@@ -221,14 +221,14 @@
   {
    "id": "ig7w6hs0",
    "name": "PMS",
-   "amount": 20000,
+   "amount": 25000,
    "per": "once",
    "days": [],
    "anchor": "2026-08-17",
    "auto": true,
    "acct": "2qriqa32",
    "active": true,
-   "u": 1786926166676,
+   "u": 1786936604347,
    "c": 1786923331858,
    "last": "2026-08-17"
   }
