@@ -39,7 +39,20 @@
    "c": 1786922356186
   }
  ],
- "txns": [],
+ "txns": [
+  {
+   "id": "7972ihuy",
+   "type": "expense",
+   "amount": 20000,
+   "date": "2026-08-17",
+   "cat": "PMS",
+   "note": "miscellaneous",
+   "essential": true,
+   "acct": "2qriqa32",
+   "u": 1786926166676,
+   "c": 1786926166676
+  }
+ ],
  "bills": [
   {
    "id": "ks6fsxqf",
@@ -213,8 +226,9 @@
    "auto": true,
    "acct": "2qriqa32",
    "active": true,
-   "u": 1786923331858,
-   "c": 1786923331858
+   "u": 1786926166676,
+   "c": 1786923331858,
+   "last": "2026-08-17"
   }
  ],
  "tomb": {
