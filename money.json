@@ -64,6 +64,18 @@
    "u": 1786940183805,
    "c": 1786940183805,
    "essential": true
+  },
+  {
+   "id": "xtezjeqs",
+   "type": "expense",
+   "amount": 2400,
+   "date": "2026-08-17",
+   "cat": "Food & groceries",
+   "note": "Shopee (CCTV)",
+   "acct": "fzq3eyo5",
+   "u": 1786962318177,
+   "c": 1786962318177,
+   "essential": true
   }
  ],
  "bills": [
