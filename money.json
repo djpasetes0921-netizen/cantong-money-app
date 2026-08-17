@@ -45,13 +45,13 @@
   {
    "id": "7972ihuy",
    "type": "expense",
-   "amount": 20000,
+   "amount": 25000,
    "date": "2026-08-17",
    "cat": "PMS",
    "note": "miscellaneous",
    "essential": true,
    "acct": "2qriqa32",
-   "u": 1786926166676,
+   "u": 1786936638028,
    "c": 1786926166676
   }
  ],
