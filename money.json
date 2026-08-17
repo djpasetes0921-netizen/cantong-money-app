@@ -11,7 +11,8 @@
   "autoSync": true,
   "u": 1786831358526,
   "gh": null,
-  "lastSync": 0
+  "lastSync": 0,
+  "lastAcct": "fzq3eyo5"
  },
  "accounts": [
   {
@@ -51,6 +52,18 @@
    "acct": "2qriqa32",
    "u": 1786936638028,
    "c": 1786926166676
+  },
+  {
+   "id": "nyk0sh52",
+   "type": "expense",
+   "amount": 2600,
+   "date": "2026-08-17",
+   "cat": "Food & groceries",
+   "note": "",
+   "acct": "fzq3eyo5",
+   "u": 1786940183805,
+   "c": 1786940183805,
+   "essential": true
   }
  ],
  "bills": [
