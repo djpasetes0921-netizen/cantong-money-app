@@ -261,6 +261,19 @@
    "active": true,
    "u": 1786966266528,
    "c": 1786966266528
+  },
+  {
+   "id": "f1c3vu2e",
+   "name": "Handog",
+   "amount": 11250,
+   "per": "once",
+   "days": [],
+   "anchor": "2026-08-29",
+   "auto": true,
+   "acct": "cn2sy9x0",
+   "active": true,
+   "u": 1786966336790,
+   "c": 1786966336790
   }
  ],
  "tomb": {
