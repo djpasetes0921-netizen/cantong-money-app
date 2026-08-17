@@ -12,8 +12,7 @@
   "u": 1786831358526,
   "gh": null,
   "lastSync": 0,
-  "lastAcct": "iqb8kkuo",
-  "window": "month"
+  "lastAcct": "iqb8kkuo"
  },
  "accounts": [
   {
@@ -209,73 +208,6 @@
   }
  ],
  "moves": [],
- "daily": [
-  {
-   "id": "ub9walat",
-   "name": "Gcash",
-   "amount": 2000,
-   "per": "once",
-   "days": [],
-   "anchor": "2026-08-18",
-   "auto": true,
-   "acct": "cn2sy9x0",
-   "active": true,
-   "u": 1786966184208,
-   "c": 1786966060886
-  },
-  {
-   "id": "dkil9qrx",
-   "name": "Austin",
-   "amount": 4000,
-   "per": "once",
-   "days": [],
-   "anchor": "2026-08-21",
-   "auto": true,
-   "acct": "cn2sy9x0",
-   "active": true,
-   "u": 1786966177117,
-   "c": 1786966177117
-  },
-  {
-   "id": "wywi8erw",
-   "name": "Austin",
-   "amount": 2000,
-   "per": "once",
-   "days": [],
-   "anchor": "2026-08-28",
-   "auto": true,
-   "acct": "iqb8kkuo",
-   "active": true,
-   "u": 1786966210638,
-   "c": 1786966210638
-  },
-  {
-   "id": "ush76lg7",
-   "name": "Lagak",
-   "amount": 10500,
-   "per": "once",
-   "days": [],
-   "anchor": "2026-08-22",
-   "auto": true,
-   "acct": "cn2sy9x0",
-   "active": true,
-   "u": 1786966266528,
-   "c": 1786966266528
-  },
-  {
-   "id": "f1c3vu2e",
-   "name": "Handog",
-   "amount": 11250,
-   "per": "once",
-   "days": [],
-   "anchor": "2026-08-29",
-   "auto": true,
-   "acct": "cn2sy9x0",
-   "active": true,
-   "u": 1786966336790,
-   "c": 1786966336790
-  }
- ],
  "tomb": {
   "e3iej48j": 1786831074398,
   "5fwaywsr": 1786831491853,
