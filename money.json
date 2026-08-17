@@ -209,7 +209,21 @@
   }
  ],
  "moves": [],
- "daily": [],
+ "daily": [
+  {
+   "id": "ub9walat",
+   "name": "Gcash",
+   "amount": 2000,
+   "per": "once",
+   "days": [],
+   "anchor": "2026-08-18",
+   "auto": true,
+   "acct": "iqb8kkuo",
+   "active": true,
+   "u": 1786966060886,
+   "c": 1786966060886
+  }
+ ],
  "tomb": {
   "e3iej48j": 1786831074398,
   "5fwaywsr": 1786831491853,
