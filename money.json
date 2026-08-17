@@ -45,30 +45,6 @@
    "acct": "iqb8kkuo",
    "u": 1786965889206,
    "c": 1786926166676
-  },
-  {
-   "id": "nyk0sh52",
-   "type": "expense",
-   "amount": 2600,
-   "date": "2026-08-17",
-   "cat": "Food & groceries",
-   "note": "SM Cabanatuan",
-   "acct": "iqb8kkuo",
-   "u": 1786965893460,
-   "c": 1786940183805,
-   "essential": true
-  },
-  {
-   "id": "xtezjeqs",
-   "type": "expense",
-   "amount": 2400,
-   "date": "2026-08-17",
-   "cat": "Food & groceries",
-   "note": "Shopee (CCTV)",
-   "acct": "iqb8kkuo",
-   "u": 1786965893460,
-   "c": 1786962318177,
-   "essential": true
   }
  ],
  "bills": [
@@ -269,6 +245,8 @@
   "9jfwstbf": 1786923229625,
   "2qriqa32": 1786965889206,
   "fzq3eyo5": 1786965893460,
-  "ig7w6hs0": 1786965938247
+  "ig7w6hs0": 1786965938247,
+  "xtezjeqs": 1786966028960,
+  "nyk0sh52": 1786966029621
  }
 }
